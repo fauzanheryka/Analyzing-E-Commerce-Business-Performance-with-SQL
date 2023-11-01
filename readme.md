@@ -6,7 +6,7 @@
 --
 
 **Table of Contents**
-- [STAGE 0: Problem Statement](https://github.com/faizns/Analyzing-eCommerce-Business-Performance-with-SQL/blob/main/README.md#-stage-0:-problem-statement)
+- [STAGE 0: Problem Statement](#📂-stage-0-problem-statement)
 	- [Background Story](#background-story)
 	- [Objective](#objective)
 - [STAGE 1: Data Preparation](#📂-stage-1-data-preparation)
